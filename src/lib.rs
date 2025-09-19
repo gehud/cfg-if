@@ -23,7 +23,6 @@
 //! # fn main() {}
 //! ```
 
-#![no_std]
 #![doc(html_root_url = "https://docs.rs/cfg-if")]
 #![deny(missing_docs)]
 #![cfg_attr(test, allow(unexpected_cfgs))] // we test with features that do not exist
